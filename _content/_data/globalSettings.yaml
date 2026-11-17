@@ -1,1 +1,5 @@
-
+siteName: "pkt14"
+productionUrl: https://pkt14-2.pages.dev
+languages:
+  - code: en
+    status: published
